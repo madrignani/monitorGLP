@@ -5,7 +5,7 @@
 
 Este projeto foi desenvolvido no primeiro semestre de 2025 como parte da disciplina de **Internet das Coisas**, sob a orientação da professora **Helga Balbi**.
 
-**URL para repositório do GitLab:** [https://github.com/madrignani/monitorGLP](https://github.com/madrignani/monitorGLP)
+**URL para repositório do GitHub:** [https://github.com/madrignani/monitorGLP](https://github.com/madrignani/monitorGLP)
 
 ---
 
