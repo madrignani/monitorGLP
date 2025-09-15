@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Open Sans Variable';
+  src: url('./fontes/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+    font-family: 'Open Sans Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f1f1f1;
+    font-size: 18px;
+}
+
+h1 {
+    color: #333;
+    font-size: 3.5em;
+    margin-bottom: 20px;
+}
+
+#status, #leitura {
+    color: #333;
+    font-size: 2em;
+    margin-top: 30px;
+}
+
+.normal, .alerta {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.normal {
+    color: green;
+}
+
+.alerta {
+    color: red;
+}
+
+button {
+    font-family: 'Open Sans Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 1.3em;
+    padding: 15px 25px;
+    margin-top: 20px;
+    background-color: #166b9d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
