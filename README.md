@@ -1,5 +1,4 @@
 # MonitorGLP
-## SISTEMA PARA O MONITORAMENTO DE NÍVEIS DE GLP
 
 **Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET-RJ), UnED Nova Friburgo**  
 **Bacharelado em Sistemas de Informação**
